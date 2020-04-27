@@ -1,0 +1,7 @@
+name: AlwaysGlide
+version: ${project.version}
+main: nl.hpfxd.alwaysglide.AlwaysGlide
+api-version: "1.13"
+authors: [hpfxd]
+description: Always make players glide.
+website: https://hpfxd.nl/
